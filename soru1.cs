@@ -39,6 +39,6 @@ tanımlamak daha uygun olacaktır.
 kütüphanesindeki pi sayısını da kullanabiliriz.
 
 Ödev: Math.PI ifadesindeki PI üzerine mouse'u sürüklediğinizde
-editörün açıklaması görülecektir. PI sayısının nasıl tanımlandığını
-inceleyiniz.
+editörün (Visual Studio Community 2022) açıklaması
+görülecektir. PI sayısının nasıl tanımlandığını inceleyiniz.
 */
