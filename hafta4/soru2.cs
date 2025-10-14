@@ -14,7 +14,7 @@ Giriş: 6
 Geri sayım durdu
 */
 
-namespace soru3
+namespace soru2
 {
     internal class Program
     {

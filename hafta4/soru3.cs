@@ -13,7 +13,7 @@ bir sayı piramidi oluşturun:
 12345
 */
 
-namespace soru7
+namespace soru3
 {
     internal class Program
     {

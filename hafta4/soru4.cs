@@ -11,7 +11,7 @@ Büyükse “Daha küçük!”
 Doğruysa “Tebrikler!”
 */
 
-namespace soru6
+namespace soru4
 {
     internal class Program
     {
