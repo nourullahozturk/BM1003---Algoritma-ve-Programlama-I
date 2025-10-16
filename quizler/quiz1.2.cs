@@ -16,11 +16,11 @@ namespace Quiz2
             double toplam_ucret = 0;
             // toplam ücret hesapla
             if (plan_turu == "Basic")
-                toplam_ucret = 120;
+                toplam_ucret = 120 * abonelik_suresi;
             else if (plan_turu == "Plus")
-                toplam_ucret = 170;
+                toplam_ucret = 170 * abonelik_suresi;
             else
-                toplam_ucret = 250;
+                toplam_ucret = 250 * abonelik_suresi;
 
             // İndirimleri uygula
             if (abonelik_suresi >= 12)
